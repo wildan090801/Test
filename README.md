@@ -19,7 +19,7 @@ BookQue is a mobile application-based platform that provides and makes it easy t
 - Detail Items
 - Bookmarks
 - Profile User
-- Upload Item
+- Upload, Edit, Delete Item
 - LightTheme & DarkTheme
 - Support Indonesia and English Language
 - Interactive UI
