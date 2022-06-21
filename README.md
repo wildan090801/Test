@@ -8,7 +8,7 @@ BookQue adalah platform berbasis aplikasi mobile yang menyediakan serta memudahk
 ## Technology
 | Firebase      | MySql      | NodeJS      | Hapi      | Dart      | Flutter      |
 |------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://user-images.githubusercontent.com/60727435/174690216-c07dd97c-dfa5-4901-a900-038ddcae03d7.png" width="150"> | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690386-b1d76852-21f2-499a-8a58-4b91246c7445.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690334-e3035916-03a0-4181-ab1f-cfea4428a2d8.png" width="120"> |
+| <img src="https://user-images.githubusercontent.com/60727435/174690216-c07dd97c-dfa5-4901-a900-038ddcae03d7.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690748-d32fe0f6-4889-41fb-a0e8-77bd54211922.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690715-2a383b76-4bb9-4bb4-832e-8a206f641822.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690386-b1d76852-21f2-499a-8a58-4b91246c7445.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690334-e3035916-03a0-4181-ab1f-cfea4428a2d8.png" width="150"> |
 - [Dart](https://dart.dev/)
 - [Flutter](https://flutter.dev/)
 - [NodeJS](https://nodejs.org/en/)
@@ -95,7 +95,4 @@ Dikarenakan ada data yang bersifat rahasia dan tidak bisa dipublish maka program
 
 
 --- Thank You ---
-# #Don't plagiarize!
-https://user-images.githubusercontent.com/60727435/174690386-b1d76852-21f2-499a-8a58-4b91246c7445.png
-
-
+# #Don't Plagiarize!
