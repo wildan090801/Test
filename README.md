@@ -3,38 +3,48 @@
 </p>
 
 # BOOKQUE
-BookQue adalah platform berbasis aplikasi mobile yang menyediakan serta memudahkan untuk mencari dan mengunggah referensi buku, jurnal atau karya tulis lainnya yang dapat di akses dengan mudah dan gratis, serta memiliki tampilan yang menarik.
+BookQue is a mobile application-based platform that provides and makes it easy to find and upload reference books, journals or other written works that can be accessed easily and for free, and have an attractive appearance.
+
+## Teams
+- [Farras Abdurrachman](https://github.com/FARRAS-DARKUNO)
+- [Nazwa Sapta Pradana](https://github.com/HikarusV)
+- [Muhammad Wildhan Kusumawardana](https://github.com/wildan090801)
+- [Yudhistira Hary Pratama](https://github.com/yudhistirahry33)
+
+## Features
+- Register, Login, Login with Facebook and Google
+- Newest Items from database, Recommendation Items, Recommendation by Author
+- Search Item with Filter
+- Category Items
+- Detail Items
+- Bookmarks
+- Profile User
+- Upload Item
+- LightTheme & DarkTheme
+- Support Indonesia and English Language
+- Interactive UI
+
+| Onboarding & Auth      | Home Page      | Profile Page     | Settings Page     |
+|------------|-------------|-------------|-------------|
+| <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> | <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> | <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> | <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> |
+
+<!-- | Detail & Bookmark Page     | Profile Page      | Upload Page      | Settings Page     |
+|------------|-------------|-------------|-------------|
+| <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> | <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> | <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> | <img src="https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif" width="200"> | -->
 
 ## Technology
-| Firebase      | MySql      | NodeJS      | Hapi      | Dart      | Flutter      |
-|------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://user-images.githubusercontent.com/60727435/174690216-c07dd97c-dfa5-4901-a900-038ddcae03d7.png" width="120"> | <img src="https://user-images.githubusercontent.com/60727435/174690748-d32fe0f6-4889-41fb-a0e8-77bd54211922.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690715-2a383b76-4bb9-4bb4-832e-8a206f641822.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690386-b1d76852-21f2-499a-8a58-4b91246c7445.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690334-e3035916-03a0-4181-ab1f-cfea4428a2d8.png" width="120"> |
-- [Dart](https://dart.dev/)
-- [Flutter](https://flutter.dev/)
-- [NodeJS](https://nodejs.org/en/)
-- [Hapi](https://hapi.dev/)
-- [Mysql](https://www.mysql.com/)
-- [Firebase Authentication](https://firebase.google.com/)
-- [Figma](https://www.figma.com/)
+| [Figma](https://www.figma.com/)      | [Firebase](https://firebase.google.com/)      | [MySql](https://www.mysql.com/)      | [NodeJS](https://nodejs.org/en/)      | [Hapi](https://hapi.dev/)      | [Dart](https://dart.dev/)      | [Flutter](https://flutter.dev/)      |
+|------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690216-c07dd97c-dfa5-4901-a900-038ddcae03d7.png" width="120"> | <img src="https://user-images.githubusercontent.com/60727435/174690748-d32fe0f6-4889-41fb-a0e8-77bd54211922.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690715-2a383b76-4bb9-4bb4-832e-8a206f641822.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690386-b1d76852-21f2-499a-8a58-4b91246c7445.png" width="150"> | <img src="https://user-images.githubusercontent.com/60727435/174690334-e3035916-03a0-4181-ab1f-cfea4428a2d8.png" width="120"> |
 
-## teams
-- [Farras](https://github.com/FARRAS-DARKUNO)
-- [Sapta](https://github.com/HikarusV)
-- [Wildhan](https://github.com/wildan090801)
-- [Yudhis](https://github.com/yudhistirahry33)
 
-## Credits
-- [openlibrary](https://openlibrary.org/)
-- [manypixels](https://www.manypixels.co/gallery)
-- [Icons8](https://icons8.com/)
 
-## Sistem Frontend
-Disini kami menggunakan bahasa pemrograman Dart dan juga menggunakan framework Flutter.
+## Front-End
+<p>Here we use the Dart Programming Language.</p>
+<p>And also use the Flutter Framework.</p>
+<p>And for State Management, we use a Provider.</p>
 
-### State Management
-Disini Kami menggunakan State Management Provider.
-
-### Package yang kami gunakan
+### Package/Library
 - [firebase_core](https://pub.dev/packages/firebase_core)
 - [firebase_auth](https://pub.dev/packages/firebase_auth)
 - [firebase_messaging](https://pub.dev/packages/firebase_messaging)
@@ -62,33 +72,22 @@ Disini Kami menggunakan State Management Provider.
 - [mockito](https://pub.dev/packages/mockito)
 - [build_runner](https://pub.dev/packages/build_runner)
 
-### Fitur pada aplikasi 
-- Register, Login, Login dengan Facebook dan Google
-- Items Terbaru dari database, Items Rekomendasi, Rekomendasi berdasarkan Author
-- Search Item menggunakan Filter
-- Category Items
-- Detail Items
-- Bookmarks
-- Profile User
-- Upload Item
-- LightTheme & DarkTheme
-- Support Bahasa Indonesia dan English
-- Interactive UI
+## Back-End
+Because there is data that is confidential and cannot be published, we cannot publish Back-End programs via Github.
 
-## Sistem Backend
-Dikarenakan ada data yang bersifat rahasia dan tidak bisa dipublish maka program back end tidak dapat kami publish lewat github.
-
-### Teknologi yang kami gunakan pada program Back end
+### Technology on Back-End
 - NodeJs
 - Hapi
-- Mysql
+- MySql
 - phpmyadmin
 - Ubuntu Server 20.04
 
-## Demo
+## Credits
+- [openlibrary](https://openlibrary.org/)
+- [manypixels](https://www.manypixels.co/gallery)
+- [Icons8](https://icons8.com/)
 
-### GIF
-![democpsg10-4](https://user-images.githubusercontent.com/53927607/173183379-7d1db78b-0e2b-417c-96a5-d3802dad53cd.gif)
+## Demo
 
 ### Youtube
 [![Watch the video](http://img.youtube.com/vi/FARFUc-dsG0/0.jpg)](https://youtu.be/FARFUc-dsG0 "Demo")
